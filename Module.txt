@@ -3,7 +3,7 @@ Path: js.Emmet
 AntiForgery: enabled
 Author: Fotis G. Pappas (fotisgpap)
 Website: http://www.grapto.com
-Version: 1.7.2
+Version: 1.7.2.1
 OrchardVersion: 1.7.2
 Description: The Emmet module contains the Emmet toolkit and related script libraries.
 FeatureDescription: A common location for Emmet and related script libraries for Orchard Project.

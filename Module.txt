@@ -1,11 +1,11 @@
 ﻿Name: Emmet
 Path: js.Emmet
 AntiForgery: enabled
-Author: Fotis G. Pappas (fotisgpap)
+Author: Team Grapto
 Website: http://www.grapto.com
-Version: 1.7.2.1
-OrchardVersion: 1.7.2
+Version: 1.8.1
+OrchardVersion: 1.8.1
 Description: The Emmet module contains the Emmet toolkit and related script libraries.
-FeatureDescription: A common location for Emmet and related script libraries for Orchard Project.
+FeatureDescription: Emmet is a plugin for many popular text editors which greatly improves HTML & CSS workflow.
 Dependencies: Orchard.jQuery, js.Underscore
 Category: Javascript

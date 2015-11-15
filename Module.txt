@@ -1,9 +1,9 @@
 ﻿Name: Emmet
 Path: js.Emmet
 AntiForgery: enabled
-Author: Team Grapto
-Website: http://www.grapto.com
-Version: 1.8.1
+Author: Team Grapto (tweet: @teamgrapto)
+Website: https://github.com/grapto/js.Emmet
+Version: 1.1
 OrchardVersion: 1.8.1
 Description: The Emmet module contains the Emmet toolkit and related script libraries.
 FeatureDescription: Emmet is a plugin for many popular text editors which greatly improves HTML & CSS workflow.
